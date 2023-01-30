@@ -1,4 +1,4 @@
-import "style/main.min.css";
+import "style/output.css";
 import CardPage from "pages/CardPage";
 function App() {
   return <CardPage />;
