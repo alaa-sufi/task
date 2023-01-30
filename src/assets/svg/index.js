@@ -1,7 +1,7 @@
 import CarRepairIcon from "./CarRepairIcon";
 import TechnicianIcon from "./TechnicianIcon";
 import IdentityIcon from "./IdentityIcon";
-import SectionIcon from "./SectionIcon";
+import SectionIcon from "./IdentityIcon copy";
 import RepairFixIcon from "./RepairFixIcon";
 import LogoIcon from "./LogoIcon";
 import LogoIconSmall from "./LogoIconSmall";
