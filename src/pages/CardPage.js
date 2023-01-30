@@ -5,7 +5,7 @@ export default function CardPage() {
     <div  className="">
       <Aside />
       <MainCard />
-      {/* <CarRepairIcon className="absolute bottom-4 left-4 md:w-[20%]  w-[100px]" /> */}
+      <CarRepairIcon className="absolute bottom-4 left-4 md:w-[20%]  w-[100px] z-[-1]" />
     </div>
   );
 }
